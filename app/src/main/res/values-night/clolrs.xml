@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultTextColor">#84D8FF</color>
+    <color name="numberButtonColor">#FFEB38</color>
+    <color name="operatorButtonColor">#A5FF3E</color>
+</resources>
